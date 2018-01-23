@@ -2,11 +2,11 @@
 
 codefights.com is an algorithm testing site to help learn a new language or prepare for a technical interview. It has various modes including the standard algorithm solving, interview practice, timed challenges, company bots, and tournaments.
 
-#What is the Arcade Section?
+# What is the Arcade Section?
 
 The Arcade section is a large part of the static practice problems CodeFights provides. It is a set of algorithm problems to help prep for technical interviews. This is currently made up of Intro, Databases, The Core, Python and Graphs.
 
-#How Does CodeFights Work?
+# How Does CodeFights Work?
 
 - In each algorithm you are given a description to solve. Check my repo for any of the markdown files to see the instructions.
 
