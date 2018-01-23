@@ -4,7 +4,7 @@ A 1-interesting polygon is just a square with a side of length 1. An n-interesti
 
 https://codefightsuserpics.s3.amazonaws.com/tasks/shapeArea/img/area.png?_tm=1491302317375
 
-Example
+**Example**
 
 For n = 2, the output should be
 shapeArea(n) = 5;
@@ -12,13 +12,13 @@ For n = 3, the output should be
 shapeArea(n) = 13.
 Input/Output
 
-[execution time limit] 4 seconds (js)
+**[execution time limit] 4 seconds (js)**
 
-[input] integer n
+**[input] integer n**
 
 Guaranteed constraints:
 1 ≤ n < 104.
 
-[output] integer
+**[output] integer**
 
 The area of the n-interesting polygon.
